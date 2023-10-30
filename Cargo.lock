@@ -5300,6 +5300,7 @@ dependencies = [
  "nanoid",
  "native-tls",
  "nom",
+ "num_cpus",
  "once_cell",
  "path-clean",
  "pbkdf2",
