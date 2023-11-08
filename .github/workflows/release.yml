@@ -1,9 +1,7 @@
 name: Version release
 
 on:
-  push:
-    tags:
-      - "v*.*.*"
+  workflow_dispatch
 
 defaults:
   run:
